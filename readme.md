@@ -1,0 +1,1 @@
+Logic Gates From Rust Book[![Build Status](https://travis-ci.org/eruca/logs.svg?branch=master)](https://travis-ci.org/eruca/logs)
